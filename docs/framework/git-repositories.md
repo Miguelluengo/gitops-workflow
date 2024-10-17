@@ -115,5 +115,5 @@ ArgoCD utiliza los roles que surgen desde la misma plataforma de Git, entonces
 los permisos de quienes acceden a determinados repositorios puede ser los mismos
 que se usan en los Argo Projects. Si no existe una integración del estilo, por
 ejemplo cuando se utilizan roles en Active Directory o LDAP, luego los permisos
-asignados ne las plataformas de Git serán independientes de los permisos
+asignados en las plataformas de Git serán independientes de los permisos
 asignados en ArgoCD.
